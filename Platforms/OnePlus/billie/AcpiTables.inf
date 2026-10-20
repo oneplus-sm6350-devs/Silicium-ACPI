@@ -1,0 +1,19 @@
+[Defines]
+  INF_VERSION                    = 0x00010005
+  BASE_NAME                      = AcpiTables
+  FILE_GUID                      = 5A2E1C7B-9F44-4C30-8E6D-1B7A20C5F9D3
+  MODULE_TYPE                    = USER_DEFINED
+  VERSION_STRING                 = 1.0
+
+[Binaries]
+  ASL|DSDT.aml
+  ASL|Common/SSDT.aml
+  ASL|Lagoon/APIC.aml
+  ASL|Lagoon/CSRT.aml
+  ASL|Lagoon/DBG2.aml
+  ASL|Lagoon/FACP.aml
+  ASL|Lagoon/FACS.aml
+  ASL|Lagoon/GTDT.aml
+  ASL|Lagoon/IORT.aml
+  ASL|Lagoon/MCFG.aml
+  ASL|Lagoon/PPTT.aml
