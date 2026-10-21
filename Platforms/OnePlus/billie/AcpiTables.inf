@@ -8,6 +8,7 @@
 [Binaries]
   ASL|DSDT.aml
   ASL|Common/SSDT.aml
+  ASL|SSDT_Touch.aml
   ASL|Lagoon/APIC.aml
   ASL|Lagoon/CSRT.aml
   ASL|Lagoon/DBG2.aml
