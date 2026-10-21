@@ -10,6 +10,7 @@
   ASL|Common/SSDT.aml
   ASL|SSDT_Touch.aml
   ASL|SSDT_Keys.aml
+  ASL|SSDT_Battery.aml
   ASL|Lagoon/APIC.aml
   ASL|Lagoon/CSRT.aml
   ASL|Lagoon/DBG2.aml
